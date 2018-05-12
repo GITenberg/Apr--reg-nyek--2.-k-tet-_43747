@@ -1,0 +1,35 @@
+_repo: Apr--reg-nyek--2.-k-tet-_43747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bródy, Sándor
+    aliases:
+    - Brodi, Sandor
+    - Brody, Sandor
+    - Bródi, Sándor
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '42369'
+    url: http://www.gutenberg.org/2009/agents/42369
+    wikipedia: http://hu.wikipedia.org/wiki/Br%C3%B3dy_S%C3%A1ndor
+description: ''
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43747'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+tableOfContents: Orgonavirág -- Negyedik feleség -- Nászút -- Egy szál buzavirág --
+  Cras -- Kisasszony, gondolja meg -- Kató -- Boldog emberek -- A Rubin-leányok --
+  Mese egy modellről -- Mese a fehérhajú Domoszlainéról -- Mese a hű asszonyságról.
+title: Apró regények (2. kötet)
+url: http://www.gutenberg.org/ebooks/43747
